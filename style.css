@@ -1,0 +1,23 @@
+.navbar-inverse .navbar-brand {
+	color: orange !important;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: orange !important;
+}
+
+.color {
+	color: orange;
+	background-color: #333;
+}
+
+.box {
+	border: 2px solid #333;
+	border-radius: 2px;
+	padding: 5px;
+}
+
+.centrer {
+	margin-top: 50px;
+	margin-right: 20px;
+}
