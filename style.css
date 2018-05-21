@@ -12,9 +12,13 @@
 }
 
 .box {
+	background-color: #BBB; 
 	border: 2px solid #333;
 	border-radius: 2px;
 	padding: 5px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	margin: 2px;
 }
 
 .centrer {
