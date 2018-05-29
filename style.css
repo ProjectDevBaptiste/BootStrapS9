@@ -12,7 +12,7 @@
 }
 
 .box {
-	background-color: #BBB; 
+	background-color: #DDD; 
 	border: 2px solid #333;
 	border-radius: 2px;
 	padding: 5px;
@@ -24,4 +24,27 @@
 .centrer {
 	margin-top: 50px;
 	margin-right: 20px;
+}
+
+body {
+	padding-top: 10px;
+}
+[class*="col-"], footer {
+  border: 2px solid black;
+  border-radius: 8px;
+  line-height: 40px;
+  text-align: center;
+  box-shadow: 10px 5px 5px #999;
+}
+
+.container {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto
+}
+
+footer {	
+	bottom: 0px;
+	position: absolute;
 }
